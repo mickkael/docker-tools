@@ -1,6 +1,5 @@
 ---
 # set up a fileserver
-
 # Usage:
 #
 #  ansible-playbook fileserver-setup.yml
